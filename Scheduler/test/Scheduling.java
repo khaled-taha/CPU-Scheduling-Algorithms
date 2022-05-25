@@ -14,7 +14,7 @@ import scheduling.*;
  * First Come, First Served (FCFS)          --> processId, arrivalTime, cpuTime
  * Priority Scheduling                      --> processId, arrivalTime, cpuTime, priority
  * Round Robin (RR)                         --> processId, arrivalTime, cpuTime
- * Shortest Remaining Time (Preemptive SRT) --> processId, arrivalTime, cpuTime
+ * Shortest Remaining Time (Preemptive SJF) --> processId, arrivalTime, cpuTime
  */
 public class Scheduling {
 
